@@ -1,0 +1,36 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
+
+#title {
+  text-align: center;
+  color: orange;
+  background-color: blue;
+}
+
+#title2 {
+  text-align: center;
+  color: orange;
+  background: blue;
+}
+
+#install {
+  position: absolute;
+  left: 45%;
+  top: 250px;
+  color: #1e00ff;
+  background-color: orange;
+  border-radius: 50px;
+  height: 60px;
+  border-color: transparent;
+}
+
+#ownedGamesDiv {
+  position: absolute;
+  text-align: center;
+  top: 250px;
+  color: orange;
+  
+}
