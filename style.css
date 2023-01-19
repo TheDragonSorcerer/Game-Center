@@ -29,8 +29,8 @@ html, body {
 
 #ownedGamesDiv {
   position: absolute;
-  text-align: center;
-  top: 250px;
+  left: 47%;
+  top: 350px;
   color: orange;
   
 }
